@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Microservice to provide notifications using Node, Nest, TypeScript, Prisma, SQLite and Jest.
 
 ## Installation
 
